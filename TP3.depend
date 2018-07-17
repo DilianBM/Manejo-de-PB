@@ -1,0 +1,257 @@
+# depslib dependency file v1.0
+1509462117 source:c:\users\ultimate 7\desktop\tp3\main.cpp
+	<iostream>
+	"Tarea.h"
+	"Proyecto.h"
+	"Interfaz.h"
+
+1509458643 source:c:\users\ultimate 7\desktop\tp3\src\tarea.cpp
+	"Tarea.h"
+
+1509458644 c:\users\ultimate 7\desktop\tp3\include\tarea.h
+	<string>
+	<vector>
+
+1508517367 source:c:\users\ultimate 7\desktop\tp3\src\persona.cpp
+	"Persona.h"
+
+1509461936 c:\users\ultimate 7\desktop\tp3\include\persona.h
+	<vector>
+	"Tarea.h"
+
+1509339015 source:c:\users\ultimate 7\desktop\tp3\src\equipo.cpp
+	"Equipo.h"
+	"Persona.h"
+	"Tarea.h"
+	<iostream>
+	<vector>
+
+1509252443 c:\users\ultimate 7\desktop\tp3\include\equipo.h
+	"Persona.h"
+	<Vector>
+
+1446667744 source:c:\users\joses\desktop\progra 2 javier\tp3\main.cpp
+	<iostream>
+
+1508359460 source:c:\users\joses\desktop\progra 2 javier\tp3\src\equipo.cpp
+	"Equipo.h"
+
+1508359460 c:\users\joses\desktop\progra 2 javier\tp3\include\equipo.h
+	"Persona.h"
+	<Vector>
+
+1508363690 c:\users\joses\desktop\progra 2 javier\tp3\include\persona.h
+	"Tarea.h"
+	<vector>
+
+1508358924 c:\users\joses\desktop\progra 2 javier\tp3\include\tarea.h
+	<string>
+	<vector>
+
+1508363709 source:c:\users\joses\desktop\progra 2 javier\tp3\src\persona.cpp
+	"Persona.h"
+
+1508353996 source:c:\users\joses\desktop\progra 2 javier\tp3\src\tarea.cpp
+	"Tarea.h"
+
+1508363464 source:c:\users\joses\desktop\progra 2 javier\tp3\src\requerimientos.cpp
+	"Requerimientos.h"
+	<vector>
+
+1508363455 c:\users\joses\desktop\progra 2 javier\tp3\include\requerimientos.h
+	<vector>
+	"Tarea.h"
+	"Equipo.h"
+
+1508362265 source:c:\users\joses\desktop\progra 2 javier\tp3\src\proyecto.cpp
+	"Proyecto.h"
+	"Requerimientos.h"
+
+1508363494 c:\users\joses\desktop\progra 2 javier\tp3\include\proyecto.h
+	"Requerimientos.h"
+
+1508363411 source:c:\users\joses\desktop\progra 2 javier\tp3\src\interfaz.cpp
+	"Interfaz.h"
+	"Requerimientos.h"
+	"Proyecto.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<string.h>
+
+1508362450 c:\users\joses\desktop\progra 2 javier\tp3\include\interfaz.h
+	"Proyecto.h"
+
+1509233675 source:c:\users\ultimate 7\desktop\tp3\src\requerimientos.cpp
+	"Requerimientos.h"
+	<vector>
+
+1509252442 c:\users\ultimate 7\desktop\tp3\include\requerimientos.h
+	<vector>
+	"Tarea.h"
+	"Equipo.h"
+
+1509474746 source:c:\users\ultimate 7\desktop\tp3\src\interfaz.cpp
+	"Interfaz.h"
+	"Requerimientos.h"
+	"Proyecto.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<new>
+	<ctype.h>
+	<stdexcept>
+	<exception>
+	<iostream>
+
+1509125468 c:\users\ultimate 7\desktop\tp3\include\interfaz.h
+	"Proyecto.h"
+	<stdexcept>
+
+1509468090 c:\users\ultimate 7\desktop\tp3\include\proyecto.h
+	<vector>
+	"Requerimientos.h"
+	"Tarea.h"
+
+1509475139 source:c:\users\ultimate 7\desktop\tp3\src\proyecto.cpp
+	"Proyecto.h"
+	"Requerimientos.h"
+	<algorithm>
+	<vector>
+	<iostream>
+	"Tarea.h"
+	<sstream>
+
+1508521322 source:c:\users\javier.vasquez\desktop\tp3\main.cpp
+	<iostream>
+	"Tarea.h"
+
+1508517268 source:c:\users\javier.vasquez\desktop\tp3\src\equipo.cpp
+	"Equipo.h"
+
+1508517254 c:\users\javier.vasquez\desktop\tp3\include\equipo.h
+	"Persona.h"
+	<Vector>
+
+1508520794 c:\users\javier.vasquez\desktop\tp3\include\persona.h
+	<vector>
+	"Tarea.h"
+
+1508521380 c:\users\javier.vasquez\desktop\tp3\include\tarea.h
+	<string>
+	<vector>
+
+1508520812 source:c:\users\javier.vasquez\desktop\tp3\src\interfaz.cpp
+	"Interfaz.h"
+	"Requerimientos.h"
+	"Proyecto.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<new>
+
+1508362452 c:\users\javier.vasquez\desktop\tp3\include\interfaz.h
+	"Proyecto.h"
+
+1508520090 c:\users\javier.vasquez\desktop\tp3\include\proyecto.h
+	<vector>
+	"Requerimientos.h"
+	"Tarea.h"
+
+1508363456 c:\users\javier.vasquez\desktop\tp3\include\requerimientos.h
+	<vector>
+	"Tarea.h"
+	"Equipo.h"
+
+1508517368 source:c:\users\javier.vasquez\desktop\tp3\src\persona.cpp
+	"Persona.h"
+
+1508517748 source:c:\users\javier.vasquez\desktop\tp3\src\proyecto.cpp
+	"Proyecto.h"
+	"Requerimientos.h"
+	<algorithm>
+	<vector>
+	"Tarea.h"
+
+1508363466 source:c:\users\javier.vasquez\desktop\tp3\src\requerimientos.cpp
+	"Requerimientos.h"
+	<vector>
+
+1508521075 source:c:\users\javier.vasquez\desktop\tp3\src\tarea.cpp
+	"Tarea.h"
+
+1509462118 source:c:\users\dilian\desktop\material\progra 2 javier\tp3b50800\main.cpp
+	<iostream>
+	"Tarea.h"
+	"Proyecto.h"
+	"Interfaz.h"
+
+1509458646 c:\users\dilian\desktop\material\progra 2 javier\tp3b50800\include\tarea.h
+	<string>
+	<vector>
+
+1509468092 c:\users\dilian\desktop\material\progra 2 javier\tp3b50800\include\proyecto.h
+	<vector>
+	"Requerimientos.h"
+	"Tarea.h"
+
+1509252444 c:\users\dilian\desktop\material\progra 2 javier\tp3b50800\include\requerimientos.h
+	<vector>
+	"Tarea.h"
+	"Equipo.h"
+
+1509252444 c:\users\dilian\desktop\material\progra 2 javier\tp3b50800\include\equipo.h
+	"Persona.h"
+	<Vector>
+
+1509461938 c:\users\dilian\desktop\material\progra 2 javier\tp3b50800\include\persona.h
+	<vector>
+	"Tarea.h"
+
+1509125470 c:\users\dilian\desktop\material\progra 2 javier\tp3b50800\include\interfaz.h
+	"Proyecto.h"
+	<stdexcept>
+
+1509339016 source:c:\users\dilian\desktop\material\progra 2 javier\tp3b50800\src\equipo.cpp
+	"Equipo.h"
+	"Persona.h"
+	"Tarea.h"
+	<iostream>
+	<vector>
+
+1509485028 source:c:\users\dilian\desktop\material\progra 2 javier\tp3b50800\src\interfaz.cpp
+	"Interfaz.h"
+	"Requerimientos.h"
+	"Proyecto.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<new>
+	<ctype.h>
+	<stdexcept>
+	<exception>
+	<iostream>
+
+1509475140 source:c:\users\dilian\desktop\material\progra 2 javier\tp3b50800\src\proyecto.cpp
+	"Proyecto.h"
+	"Requerimientos.h"
+	<algorithm>
+	<vector>
+	<iostream>
+	"Tarea.h"
+	<sstream>
+
+1509233676 source:c:\users\dilian\desktop\material\progra 2 javier\tp3b50800\src\requerimientos.cpp
+	"Requerimientos.h"
+	<vector>
+
+1509458644 source:c:\users\dilian\desktop\material\progra 2 javier\tp3b50800\src\tarea.cpp
+	"Tarea.h"
+
